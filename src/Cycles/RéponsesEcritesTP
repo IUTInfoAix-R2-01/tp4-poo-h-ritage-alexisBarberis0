@@ -1,0 +1,15 @@
+Exercice 5:
+Redéfinir une méthode signifie adapter une méthode d'une classe mère à une de ses classes fille.
+
+Exercice 6:
+Les méthodes toString et getPuissance ont été redéfinies.
+
+Exercice 7:
+@Override indique au compilateur que l'on redéfini la méthode d'une classe mère dans une classe fille.
+
+Exercice 8:
+Lorsque l'annotation @Override est pertinente sa présence indique au compilateur de vérifier la redéfinission de la méthode est correcte.
+
+Exercice 10:
+La méthode super.getPuissane(frequenceCoupsDePedale) dans VeloElec.getPuissane() appelle la méthode Velo.getPuissance() de la classe mère.
+
