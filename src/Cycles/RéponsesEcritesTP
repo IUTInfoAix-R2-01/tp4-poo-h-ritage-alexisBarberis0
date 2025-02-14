@@ -9,6 +9,7 @@ Exercice 7:
 
 Exercice 8:
 Lorsque l'annotation @Override est pertinente sa présence indique au compilateur de vérifier la redéfinission de la méthode est correcte.
+Oui on peut s'en dispenser.
 
 Exercice 10:
 La méthode super.getPuissane(frequenceCoupsDePedale) dans VeloElec.getPuissane() appelle la méthode Velo.getPuissance() de la classe mère.

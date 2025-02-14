@@ -2,7 +2,7 @@ package Cycles;
 
 
 
-class VeloElec extends Velo{
+public class VeloElec extends Velo{
 	private double DEFAUT_FACTEUR_PUISSANCE_MOTEUR = 15.0;
 	private double facteurPuissanceMoteur;
 	
